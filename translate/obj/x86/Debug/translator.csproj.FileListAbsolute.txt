@@ -1,0 +1,14 @@
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\bin\Debug\zuzeTransalor.exe.config
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\bin\Debug\zuzeTransalor.exe
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\bin\Debug\zuzeTransalor.pdb
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\bin\Debug\GoogleTranslateAPI.dll
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\bin\Debug\GoogleTranslateAPI.pdb
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\bin\Debug\GoogleTranslateAPI.xml
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\obj\x86\Debug\zuzeTransalor.Form1.resources
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\obj\x86\Debug\zuzeTransalor.Properties.Resources.resources
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\obj\x86\Debug\translator.csproj.GenerateResource.Cache
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\obj\x86\Debug\zuzeTransalor.exe
+C:\Users\sachin\Downloads\zuzeTransalor (1)\zuzeTransalor\zuzeTransalor\obj\x86\Debug\zuzeTransalor.pdb
+C:\Users\OM\Desktop\manasi\translate\translate\translate\bin\Debug\zuzeTransalor.exe.config
+C:\Users\OM\Desktop\manasi\translate\translate\translate\obj\x86\Debug\zuzeTransalor.exe
+C:\Users\OM\Desktop\manasi\translate\translate\translate\obj\x86\Debug\zuzeTransalor.pdb
